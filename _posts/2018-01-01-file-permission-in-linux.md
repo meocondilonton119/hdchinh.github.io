@@ -7,11 +7,6 @@ tags:
   - ipsum
 ---
 
----
-layout: default
----
-
-[back <-](./)
 
 ## Mở bài [Có thể bỏ qua]
 
@@ -84,6 +79,9 @@ Suy ra với lệnh chmod 777 file_name
 Hình ảnh minh hoạ: 
 
 ![Branching](http://www.macinstruct.com/images/permissions/permissions1.png)
+
+Trong nhiều trường hợp để có thể thực hiện được lệnh set permission kể trên, ta phải thêm câu lệnh `sudo`
+vào phía trước. Trong các bài tiếp theo sẽ giải thích về ý nghĩa của câu lệnh này.
 
 ### 6.Tham khảo
 

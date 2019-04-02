@@ -27,11 +27,6 @@ Qua đó chúng ta có thể thấy, `Linux` và các hệ điều hành con ch�
 
 Ví dụ terminal được xem là một `Shell CLI`, mỗi khi bạn gõ một lệnh bất kỳ trên terminal, nó sẽ chuyển đổi câu lệnh bạn viết thành một câu lệnh khác mà phần nhân hệ điều hành có thể hiểu và thực hiện được.
 
-{% highlight ruby %}
-array = Array.new(3,1)
-#=> Tạo 1 mảng tên array có 3 phần tử đều có giá trị là 1.
-{% endhighlight %}
-
 ### 2.Điều gì xảy ra khi bạn gõ một lệnh trên terminal?
 
 Đã bao giờ bạn tự hỏi chuyện gì sẽ xảy ra tiếp theo khi ta gõ một lệnh trong terminal? Ví dụ:

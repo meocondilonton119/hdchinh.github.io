@@ -83,7 +83,7 @@ Hình ảnh minh hoạ:
 Trong nhiều trường hợp để có thể thực hiện được lệnh set permission kể trên, ta phải thêm câu lệnh `sudo`
 vào phía trước. Trong các bài tiếp theo sẽ giải thích về ý nghĩa của câu lệnh này.
 
-### 6.Tham khảo
+### 5.Tham khảo
 
 https://www.guru99.com/file-permissions.html
 

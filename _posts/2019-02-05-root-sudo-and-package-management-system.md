@@ -10,7 +10,7 @@ tags:
 
 ## Mở bài
 
-Trong một bài viết gần đây về chủ đề file permission trên Unix/Linux, tôi có đề cập đến một người dùng quyền lực trên các hệ thống kể trên có tên gọi là `root`. Bài viết này sẽ khái quát về người dùng này kèm theo hai khái niệm có liên quan là `sudo` và `Package Management System`.
+Trong một bài viết gần Đây về chủ đề file permission trên Unix/Linux, tôi có Đề cập Đến một người dùng quyền lực trên các hệ thống kể trên có tên gọi là `root`. Bài viết này sẽ khái quát về người dùng này kèm theo hai khái niệm có liên quan là `sudo` và `Package Management System`.
 
 ## Thân bài
 
